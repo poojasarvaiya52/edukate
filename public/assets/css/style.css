@@ -9973,3 +9973,7 @@ h6,
 .testimonial-carousel .owl-nav .owl-prev:hover {
   background: #ffc107;
 }
+a.courses-list-item.courses_l {
+  min-height: 400px;
+  max-height: 400px;
+}
